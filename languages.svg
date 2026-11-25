@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 68.342%;
+  width: 68.380%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 29.193%;
+  width: 29.144%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 1.209%;
@@ -160,11 +160,11 @@ div.ellipsis {
   background-color: #384d54; 
   width: 0.026%;
 " class="progress-item"></span><span style="
+  background-color: #89e051; 
+  width: 0.022%;
+" class="progress-item"></span><span style="
   background-color: #dea584; 
   width: 0.021%;
-" class="progress-item"></span><span style="
-  background-color: #89e051; 
-  width: 0.011%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
   width: 0.008%;
@@ -191,7 +191,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">68.34%</span>
+  <span class="percent">68.38%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -207,7 +207,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">29.19%</span>
+  <span class="percent">29.14%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -325,6 +325,22 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
+      style="fill: #89e051;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Shell</span>
+  <span class="percent">0.02%</span>
+</li>
+<li style="animation-delay: 1650ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
       style="fill: #dea584;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -336,22 +352,6 @@ div.ellipsis {
   ></path></svg>
   <span class="lang">Rust</span>
   <span class="percent">0.02%</span>
-</li>
-<li style="animation-delay: 1650ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
-      style="fill: #89e051;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Shell</span>
-  <span class="percent">0.01%</span>
 </li>
 <li style="animation-delay: 1800ms;">
   <svg 
